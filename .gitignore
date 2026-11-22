@@ -1,0 +1,4 @@
+bibliotheque.db
+bibliotheque.db-*
+__pycache__/
+*.py[cod]
